@@ -1,0 +1,5 @@
+{
+  "name": "Roblox Game Item Store",
+  "description": "A web application for browsing and purchasing Roblox in-game items, featuring a virtual wallet and shopping cart functionality, inspired by modern e-commerce UI/UX.",
+  "requestFramePermissions": []
+}
